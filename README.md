@@ -7,7 +7,6 @@ I'm a self taught programmer that likes to invent new things to improve other pr
 
 ## Main points
 - Working on the [AçaíJS framework](https://gitlab.com/acaijs)
-- Working at [Foton Tech](https://fotontech.io) as a fullstack developer
 - Developed some packages for react
 - Article writer on linkedin (mainly portuguese thou)
 - Some unfinished projects tapping into the crypto trading market
